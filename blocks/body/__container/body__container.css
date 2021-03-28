@@ -1,0 +1,15 @@
+.body__container {
+   margin: 0 16px;
+}
+
+@media (min-width: 768px) {
+   .body__container {
+      margin: 0 24px;
+   }
+}
+
+@media (min-width: 1024px) {
+   .body__container {
+      margin: 0 48px;
+   }
+}

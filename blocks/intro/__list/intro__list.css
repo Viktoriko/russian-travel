@@ -1,0 +1,27 @@
+.intro__list {
+   font-size: 12px;
+   line-height: 1.5;
+   padding: 0;
+   margin-top: 34px;
+   margin-bottom: 64px;
+   list-style: none;
+   font-weight: bold;
+}
+@media (min-width: 768px) {
+   .intro__list {
+      margin-top: 33px;
+      margin-bottom: 88px;
+   }
+}
+
+@media (min-width: 780px) {
+   .intro__list {
+      max-width: 690px;
+   }
+}
+
+@media (min-width: 1024px) {
+   .intro__list {
+      margin-bottom: 92px;
+   }
+}

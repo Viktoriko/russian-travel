@@ -1,0 +1,16 @@
+@media (min-width: 768px) {
+   .intro {
+      max-width: 928px;
+   }
+}
+@media (min-width: 976px) {
+   .intro {
+      margin: 0 auto;
+   }
+}
+
+@media (min-width: 1280px) {
+   .intro {
+      max-width: 984px;
+   }
+}

@@ -1,0 +1,10 @@
+.logo_place_header {
+   display: block;
+   width: 142px;
+}
+
+@media (min-width: 768px) {
+   .logo_place_header {
+      width: 176px;
+   }
+}
