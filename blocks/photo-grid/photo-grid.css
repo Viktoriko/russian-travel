@@ -9,13 +9,20 @@
    .photo-grid {
       gap: 16px;
       margin-bottom: 88px;
+      max-width: 928px;
+   }
+}
+@media (min-width: 982px) {
+   .photo-grid {
+      margin: 0 auto 88px;
    }
 }
 
 @media (min-width: 1024px) {
    .photo-grid {
       gap: 14px;
-      margin-bottom: 92px;
+      margin: 0 48px 92px;
+      max-width: 1184px;
    }
 }
 
